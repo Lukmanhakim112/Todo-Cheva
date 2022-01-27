@@ -1,0 +1,32 @@
+.title-font {
+	font-family: "Outfit", sans-serif;
+}
+.btn-ice {
+	background: #75B2BF;
+	color: white;
+}
+.btn-ice:hover {
+	background: #226473;
+	color: #B6F2E7;
+}
+.btn-macha {
+	background: #B6F2E7;
+}
+.btn-macha:hover {
+	background: #4A8C6D;
+	color: white;
+}
+.text-macha {
+	color: #4A8C6D;
+}
+.text-dark-ice {
+	color: #226473;
+}
+.todo-heading::before {
+	content: "•";
+	font-size: 1.3rem;
+}
+.form-check-input:checked {
+	background: #226473;
+	border-color: #226473;
+}
